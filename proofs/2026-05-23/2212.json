@@ -1,10 +1,8 @@
 {
-  "root_hash": "cd76c8703f16fc0140a47e334ac757e5c4246820c7a7a1692d870ee3d11eae95",
-  "entry_count": 8085,
-  "ledger_sha256": "34062e78c48e2384b7211c342555599128803d47bebdb561d3e3c3f2d786458f",
+  "root_hash": "8a6ef680430793a1526eb8a7cd175cf8e1f4b455855a5af3a3e800ad98ecb3c3",
+  "entry_count": 8087,
+  "ledger_sha256": "b4f54066cc74cf0f536820b39f3cb8623590575d0808456faf3d92c6177d1ab1",
   "latest_alert_ids": [
-    "671e00c9cdae6f67750cc12d",
-    "de2617ebb6027f8144387704",
     "03aa97be716ca7d937a5a1ff",
     "05bd3be464d83788e52b7ab1",
     "45e5d4b5b7d05e8a4510b9bf",
@@ -12,8 +10,10 @@
     "52878c9803920f3688594a4e",
     "09781692964370a8a71b7152",
     "302491f8d7659913851e8fde",
-    "ff2caad734a47c9e212459e9"
+    "ff2caad734a47c9e212459e9",
+    "0416eccbb9355cad19d345fe",
+    "5fdacf5892f5aaadb24035b2"
   ],
   "schema_version": "merkle_v1",
-  "committed_at": "2026-05-23T22:12:02.327119+00:00"
+  "committed_at": "2026-05-23T22:12:59.278458+00:00"
 }
