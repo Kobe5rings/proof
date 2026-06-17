@@ -1,0 +1,10 @@
+{
+  "date": "2026-06-17",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {"p": 0.68, "kalshi_price": 0.79, "reason": "Historical MoM CPI prints often land 0.2-0.4%; tariff pressures in 2026 push higher but 79c market feels rich given base rate uncertainty."},
+    "KXCPI-26MAY-T0.5": {"p": 0.28, "kalshi_price": 0.34, "reason": "A >0.5% print requires sustained tariff pass-through and shelter persistence; possible but market slightly overprices given recent trend."},
+    "KXCPI-26MAY-T0.6": {"p": 0.09, "kalshi_price": 0.07, "reason": "Upside tail risk from tariff shock or energy spike makes 9% marginally higher than market's 7c; fat tail warrants slight premium."},
+    "KXCPI-26MAY-T0.7": {"p": 0.03, "kalshi_price": 0.02, "reason": "Extreme print requiring simultaneous energy, shelter, and goods surge; very low probability with slight bump for tail risk."},
+    "KXCPI-26MAY-T0.8": {"p": 0.01, "kalshi_price": 0.02, "reason": "Near-impossible without a major supply shock; market's 2c may be slightly rich, estimate 1%."}
+  }
+}
