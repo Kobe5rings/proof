@@ -1,0 +1,10 @@
+{
+  "date": "2026-06-18",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {"p": 0.75, "kalshi_price": 0.79, "reason": "Tariff pass-through and sticky shelter costs keep monthly CPI elevated, but moderation in energy and goods suggests slight downside to market's 79c price."},
+    "KXCPI-26MAY-T0.5": {"p": 0.30, "kalshi_price": 0.34, "reason": "Core services inflation remains persistent but goods disinflation and easing energy prices limit upside beyond 0.5% MoM; slightly below market."},
+    "KXCPI-26MAY-T0.6": {"p": 0.09, "kalshi_price": 0.07, "reason": "Tariff second-round effects and services stickiness pose modest upside tail risk; fair value slightly above Kalshi's 7c."},
+    "KXCPI-26MAY-T0.7": {"p": 0.03, "kalshi_price": 0.02, "reason": "A print above 0.7% MoM would require broad-based acceleration across shelter, services, and energy simultaneously — low but non-zero tail."},
+    "KXCPI-26MAY-T0.8": {"p": 0.01, "kalshi_price": 0.02, "reason": "Extremely unlikely without a major energy spike or renewed broad-based price shock; market slightly overpriced at 2c."}
+  }
+}
