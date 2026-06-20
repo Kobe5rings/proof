@@ -1,0 +1,10 @@
+{
+  "date": "2026-06-20",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {"p": 0.72, "kalshi_price": 0.79, "reason": "May 2026 MoM CPI likely in 0.2-0.4% range given disinflation trend through 2025-2026; >0.4% possible but market slightly overpriced at 79c."},
+    "KXCPI-26MAY-T0.5": {"p": 0.27, "kalshi_price": 0.34, "reason": "Readings above 0.5% MoM would require energy or shelter reacceleration; market at 34c appears slightly elevated vs base trend of ~0.25% monthly."},
+    "KXCPI-26MAY-T0.6": {"p": 0.09, "kalshi_price": 0.07, "reason": ">0.6% MoM would be a significant upside surprise; slightly higher than Kalshi at 7c given tail risk from energy price volatility."},
+    "KXCPI-26MAY-T0.7": {"p": 0.03, "kalshi_price": 0.02, "reason": ">0.7% MoM would be historically rare outside pandemic-era spikes; marginal upward edge over Kalshi's 2c given fat-tail uncertainty."},
+    "KXCPI-26MAY-T0.8": {"p": 0.02, "kalshi_price": 0.02, "reason": ">0.8% MoM virtually impossible absent a major external shock; fair at Kalshi's 2c floor."}
+  }
+}
