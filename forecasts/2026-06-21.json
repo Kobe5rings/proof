@@ -1,0 +1,10 @@
+{
+  "date": "2026-06-21",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {"p": 0.42, "kalshi_price": 0.79, "reason": "May's 0.5% MoM was energy-driven (+3.9%); with energy prices likely stabilizing, June CPI expected ~0.3%, making >0.4% less probable than market implies."},
+    "KXCPI-26MAY-T0.5": {"p": 0.20, "kalshi_price": 0.34, "reason": "May energy spike unlikely to repeat in June; core CPI at +0.2% MoM signals contained underlying inflation, reducing odds of another 0.5%+ print."},
+    "KXCPI-26MAY-T0.6": {"p": 0.07, "kalshi_price": 0.07, "reason": "In line with market; would require a second consecutive large energy shock or an unexpected food surge on top of sticky shelter costs."},
+    "KXCPI-26MAY-T0.7": {"p": 0.03, "kalshi_price": 0.02, "reason": "Very low probability; compounding energy and shelter acceleration simultaneously is a tail scenario inconsistent with current softening core trends."},
+    "KXCPI-26MAY-T0.8": {"p": 0.01, "kalshi_price": 0.02, "reason": "Extreme tail only; a 0.8%+ monthly CPI print would match March 2022 levels and is incompatible with the current benign core and moderating food trajectory."}
+  }
+}
