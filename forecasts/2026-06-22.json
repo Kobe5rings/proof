@@ -1,0 +1,10 @@
+{
+  "date": "2026-06-22",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {"p": 0.72, "kalshi_price": 0.79, "reason": "Tariff pass-through adds upside pressure but energy price softening and moderating shelter inflation keep >0.4% below market-implied odds."},
+    "KXCPI-26MAY-T0.5": {"p": 0.30, "kalshi_price": 0.34, "reason": "Moderate tariff pass-through and sticky services support ~0.45-0.50% MoM; >0.5% is roughly coin-flip relative to consensus."},
+    "KXCPI-26MAY-T0.6": {"p": 0.10, "kalshi_price": 0.07, "reason": "Tail risk from combined energy rebound and broad tariff pass-through justifies slight premium over Kalshi price."},
+    "KXCPI-26MAY-T0.7": {"p": 0.04, "kalshi_price": 0.02, "reason": "Meaningful upside scenario requires simultaneous energy spike and full tariff pass-through; low but non-trivial given 2026 trade uncertainty."},
+    "KXCPI-26MAY-T0.8": {"p": 0.02, "kalshi_price": 0.02, "reason": "Extreme print would require both a large energy surge and broad goods inflation; consistent with Kalshi market price."}
+  }
+}
