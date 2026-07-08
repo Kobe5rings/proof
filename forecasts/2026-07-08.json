@@ -1,0 +1,10 @@
+{
+  "date": "2026-07-08",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {"p": 0.68, "kalshi_price": 0.79, "reason": "Tariff pass-through to goods and sticky shelter likely kept May CPI elevated, but full 0.4%+ threshold still uncertain given some energy moderation."},
+    "KXCPI-26MAY-T0.5": {"p": 0.28, "kalshi_price": 0.34, "reason": "Above-trend monthly jump requiring broad-based acceleration across goods, services, and energy — possible but not the baseline scenario."},
+    "KXCPI-26MAY-T0.6": {"p": 0.10, "kalshi_price": 0.07, "reason": "High monthly print would require simultaneous energy spike and tariff surge; slightly above Kalshi price due to tail-risk from tariff front-loading."},
+    "KXCPI-26MAY-T0.7": {"p": 0.04, "kalshi_price": 0.02, "reason": "Very high monthly CPI would need a substantial supply shock; slightly above market reflecting non-trivial tariff escalation risk."},
+    "KXCPI-26MAY-T0.8": {"p": 0.02, "kalshi_price": 0.02, "reason": "Extreme tail scenario requiring near-crisis inflation conditions; in line with market price."}
+  }
+}
