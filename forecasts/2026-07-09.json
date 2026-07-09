@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-09",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {
+      "p": 0.72,
+      "kalshi_price": 0.79,
+      "reason": "Monthly CPI exceeding 0.4% is plausible given sticky services inflation and housing costs, but moderating energy prices and supply-chain normalization suggest market slightly overprices this outcome."
+    },
+    "KXCPI-26MAY-T0.5": {
+      "p": 0.27,
+      "kalshi_price": 0.34,
+      "reason": "A 0.5%+ monthly print requires broad-based price acceleration; recent core CPI trends favor a softer reading, making the market price a bit rich."
+    },
+    "KXCPI-26MAY-T0.6": {
+      "p": 0.10,
+      "kalshi_price": 0.07,
+      "reason": "Exceeding 0.6% monthly would be a significant upside surprise; slightly higher than market given tail risk from energy and tariff pass-through."
+    },
+    "KXCPI-26MAY-T0.7": {
+      "p": 0.04,
+      "kalshi_price": 0.02,
+      "reason": "A 0.7%+ monthly CPI would be a multi-year anomaly requiring simultaneous shocks across energy, food, and services; low but non-trivial tail probability."
+    },
+    "KXCPI-26MAY-T0.8": {
+      "p": 0.02,
+      "kalshi_price": 0.02,
+      "reason": "Exceeding 0.8% monthly is extremely rare and would require a major supply shock; fair-value roughly in line with market."
+    }
+  }
+}
