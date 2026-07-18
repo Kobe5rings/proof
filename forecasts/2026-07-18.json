@@ -1,0 +1,10 @@
+{
+  "date": "2026-07-18",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {"p": 0.74, "kalshi_price": 0.79, "reason": "Tariff-driven inflation pulse fading by May 2026 and base effects moderating, but sticky services keep >0.4% still likely at ~74%."},
+    "KXCPI-26MAY-T0.5": {"p": 0.32, "kalshi_price": 0.34, "reason": "Above-trend monthly print; easing energy prices and shelter deceleration make >0.5% possible but below-even odds at ~32%."},
+    "KXCPI-26MAY-T0.6": {"p": 0.09, "kalshi_price": 0.07, "reason": "Would require significant energy spike or shelter re-acceleration; tail risk slightly above market given residual tariff pass-through uncertainty."},
+    "KXCPI-26MAY-T0.7": {"p": 0.03, "kalshi_price": 0.02, "reason": "Rare shock scenario in post-tariff normalization environment; marginally above market's 2c given fat-tail uncertainty."},
+    "KXCPI-26MAY-T0.8": {"p": 0.01, "kalshi_price": 0.02, "reason": "Extreme outcome requiring simultaneous energy surge, shelter shock, and services spike; consistent with market pricing at near-zero."}
+  }
+}
