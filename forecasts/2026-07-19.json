@@ -1,0 +1,10 @@
+{
+  "date": "2026-07-19",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {"p": 0.80, "kalshi_price": 0.79, "reason": "Tariff pass-through and sticky services inflation make >0.4% monthly CPI the most likely outcome; slight upward lean vs market."},
+    "KXCPI-26MAY-T0.5": {"p": 0.38, "kalshi_price": 0.34, "reason": "Ongoing goods price pressure from 2025 tariffs and shelter costs support a somewhat higher probability than market implies."},
+    "KXCPI-26MAY-T0.6": {"p": 0.12, "kalshi_price": 0.07, "reason": "Non-trivial tail risk from persistent services inflation and energy volatility pushes this above the market's 7c price."},
+    "KXCPI-26MAY-T0.7": {"p": 0.05, "kalshi_price": 0.02, "reason": "Rare but plausible if energy spike or renewed supply shock coincided; market at 2c appears too low given macro uncertainty."},
+    "KXCPI-26MAY-T0.8": {"p": 0.02, "kalshi_price": 0.02, "reason": "Extreme monthly prints >0.8% would require a significant simultaneous shock; consistent with market pricing."}
+  }
+}
