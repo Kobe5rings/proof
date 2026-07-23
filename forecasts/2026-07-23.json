@@ -1,0 +1,10 @@
+{
+  "date": "2026-07-23",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {"p": 0.75, "kalshi_price": 0.79, "reason": "Tariff pass-through and sticky services CPI suggest elevated monthly readings, but market slightly overprices tail given energy offset."},
+    "KXCPI-26MAY-T0.5": {"p": 0.30, "kalshi_price": 0.34, "reason": "A 0.5%+ monthly print requires broad-based acceleration beyond tariff goods; services and shelter moderation keeps this below market."},
+    "KXCPI-26MAY-T0.6": {"p": 0.08, "kalshi_price": 0.07, "reason": "Very elevated 0.6%+ monthly CPI is possible but unlikely; small upward edge vs market given residual tariff uncertainty."},
+    "KXCPI-26MAY-T0.7": {"p": 0.03, "kalshi_price": 0.02, "reason": "Near-0.7% monthly CPI would require energy spike plus broad goods surge simultaneously; slightly above market given fat tail risk."},
+    "KXCPI-26MAY-T0.8": {"p": 0.02, "kalshi_price": 0.02, "reason": "Extreme 0.8%+ monthly print is very unlikely absent a supply shock; estimate in line with market."}
+  }
+}
