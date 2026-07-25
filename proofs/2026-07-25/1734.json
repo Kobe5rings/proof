@@ -1,0 +1,19 @@
+{
+  "root_hash": "ee39a33b9a873a5e675ccc589635ee5111602eaa41e9f9f108cbc69ab1622ae6",
+  "entry_count": 19238,
+  "ledger_sha256": "2304e57f4c39f4a8b4312a629e54837d58aab78c077a88cd32a5cc0ed145e41a",
+  "latest_alert_ids": [
+    "92e0eb0f41bae7f163ad147c",
+    "5ab04f39155e9a8abd23bb63",
+    "845add6bab0b04c095741288",
+    "26856d5243cf62f804fe7189",
+    "dff574fc721b216879204003",
+    "92a04747a2693001ec0dc93f",
+    "563e00b198f1eb784bccc61d",
+    "89fcbd8fedae258cea0c6e90",
+    "df0303a8c7abda13265eb9d3",
+    "d613c6d0702717eb94d6a3c5"
+  ],
+  "schema_version": "merkle_v1",
+  "committed_at": "2026-07-25T17:34:37.296303+00:00"
+}
