@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-27",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {
+      "p": 0.72,
+      "kalshi_price": 0.79,
+      "reason": "Tariff-driven goods inflation likely added upward pressure in May 2026, but shelter disinflation offsets some; MoM >0.4% probable but market may slightly overprice tail optimism."
+    },
+    "KXCPI-26MAY-T0.5": {
+      "p": 0.30,
+      "kalshi_price": 0.34,
+      "reason": "Exceeding 0.5% MoM requires both tariff and energy to deliver simultaneously; services ex-shelter trending down, making this threshold harder to clear."
+    },
+    "KXCPI-26MAY-T0.6": {
+      "p": 0.09,
+      "kalshi_price": 0.07,
+      "reason": "A 0.6%+ MoM print would be a significant surprise; possible only if energy spiked and tariff pass-through was faster than expected, slightly underpriced at 7c."
+    },
+    "KXCPI-26MAY-T0.7": {
+      "p": 0.04,
+      "kalshi_price": 0.02,
+      "reason": "A 0.7%+ MoM CPI in May 2026 would be historically elevated; fat tail risk from concurrent tariff + energy shock makes this slightly underpriced relative to 2c market."
+    },
+    "KXCPI-26MAY-T0.8": {
+      "p": 0.02,
+      "kalshi_price": 0.02,
+      "reason": "An 0.8%+ MoM print is an extreme outcome last seen during acute supply shocks; fair at 2c given the low base rate for such readings."
+    }
+  }
+}
