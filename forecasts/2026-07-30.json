@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-30",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {
+      "p": 0.70,
+      "kalshi_price": 0.79,
+      "reason": "Tariff pass-through supports elevated monthly prints but decelerating shelter inflation and goods disinflation create meaningful downside risk below the 0.4% threshold."
+    },
+    "KXCPI-26MAY-T0.5": {
+      "p": 0.25,
+      "kalshi_price": 0.34,
+      "reason": "Exceeding 0.5% monthly requires sustained tariff pass-through plus energy bounce simultaneously, an uncommon confluence given softening goods demand."
+    },
+    "KXCPI-26MAY-T0.6": {
+      "p": 0.07,
+      "kalshi_price": 0.07,
+      "reason": "A >0.6% monthly print would rival early 2022 shock magnitudes and is only plausible in a severe supply disruption scenario."
+    },
+    "KXCPI-26MAY-T0.7": {
+      "p": 0.03,
+      "kalshi_price": 0.02,
+      "reason": "Requires an energy spike combined with broad simultaneous goods and services inflation, an extremely low-probability confluence in 2026 context."
+    },
+    "KXCPI-26MAY-T0.8": {
+      "p": 0.02,
+      "kalshi_price": 0.02,
+      "reason": "Has not occurred outside pandemic and war-shock episodes; no plausible single catalyst could drive this in the current macro environment."
+    }
+  }
+}
