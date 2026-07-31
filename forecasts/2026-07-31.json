@@ -1,0 +1,10 @@
+{
+  "date": "2026-07-31",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {"p": 0.72, "kalshi_price": 0.79, "reason": "Monthly CPI above 0.4% is plausible but Kalshi appears overpriced; core services and shelter remain sticky but energy headwinds and tariff-driven goods disinflation have moderated the pace."},
+    "KXCPI-26MAY-T0.5": {"p": 0.27, "kalshi_price": 0.34, "reason": "Above 0.5% monthly prints have become less frequent as goods deflation offset services stickiness; fair value below Kalshi's implied 34%."},
+    "KXCPI-26MAY-T0.6": {"p": 0.09, "kalshi_price": 0.07, "reason": "A 0.6%+ monthly surge would require a sharp energy spike or re-acceleration in shelter; slightly above Kalshi price given tail risk from import costs."},
+    "KXCPI-26MAY-T0.7": {"p": 0.04, "kalshi_price": 0.02, "reason": "0.7%+ monthly CPI would be a significant upside shock; tariff pass-through risk makes this slightly higher than Kalshi's 2c implies."},
+    "KXCPI-26MAY-T0.8": {"p": 0.02, "kalshi_price": 0.02, "reason": "Extreme tail scenario requiring simultaneous energy, shelter, and goods price surges; roughly in line with Kalshi's current pricing."}
+  }
+}
