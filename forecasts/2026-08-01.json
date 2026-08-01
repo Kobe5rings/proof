@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-01",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {
+      "p": 0.62,
+      "kalshi_price": 0.79,
+      "reason": "Monthly CPI disinflation trend in Spring 2026 makes >0.4% threshold less certain than market prices imply, despite sticky core services."
+    },
+    "KXCPI-26MAY-T0.5": {
+      "p": 0.28,
+      "kalshi_price": 0.34,
+      "reason": "Shelter disinflation and moderate energy prices reduce probability of a 0.5%+ monthly print, slightly below market."
+    },
+    "KXCPI-26MAY-T0.6": {
+      "p": 0.10,
+      "kalshi_price": 0.07,
+      "reason": "Tail risk slightly elevated vs Kalshi due to lingering tariff pass-through on goods prices potentially causing a surprise."
+    },
+    "KXCPI-26MAY-T0.7": {
+      "p": 0.04,
+      "kalshi_price": 0.02,
+      "reason": "Low but non-negligible tail; an energy spike or goods price surge could drive this, warranting a small premium over market."
+    },
+    "KXCPI-26MAY-T0.8": {
+      "p": 0.02,
+      "kalshi_price": 0.02,
+      "reason": "Probability at parity with market; an 0.8%+ print would require concurrent energy, shelter, and goods shocks—unlikely given current trends."
+    }
+  }
+}
