@@ -1,0 +1,10 @@
+{
+  "date": "2026-08-02",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {"p": 0.72, "kalshi_price": 0.79, "reason": "MoM CPI above 0.4% is plausible given sticky shelter and services inflation, but market appears slightly rich vs historical distribution of monthly prints."},
+    "KXCPI-26MAY-T0.5": {"p": 0.28, "kalshi_price": 0.34, "reason": "A 0.5%+ MoM print would signal re-acceleration; recent trend centers around 0.3-0.4%, making this moderately unlikely and market slightly overpriced."},
+    "KXCPI-26MAY-T0.6": {"p": 0.09, "kalshi_price": 0.07, "reason": "0.6%+ MoM would represent a significant spike; energy or housing surprises could drive this, fair value slightly above market."},
+    "KXCPI-26MAY-T0.7": {"p": 0.03, "kalshi_price": 0.02, "reason": "0.7%+ MoM is a tail event not seen since peak 2022 inflation surge; very low probability, near fair value."},
+    "KXCPI-26MAY-T0.8": {"p": 0.01, "kalshi_price": 0.02, "reason": "0.8%+ MoM CPI is an extreme tail requiring a multi-sector shock; effectively at resolution floor."}
+  }
+}
