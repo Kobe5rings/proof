@@ -1,0 +1,10 @@
+{
+  "date": "2026-08-26",
+  "forecasts": {
+    "KXCPI-26MAY-T0.4": {"p": 0.76, "kalshi_price": 0.79, "reason": "Monthly CPI has stayed mostly in the 0.2-0.4% range with sticky services inflation; >0.4% remains the more likely scenario but slightly below market."},
+    "KXCPI-26MAY-T0.5": {"p": 0.30, "kalshi_price": 0.34, "reason": "Shelter disinflation continues to weigh on CPI; a >0.5% print requires broad re-acceleration that current data does not strongly support."},
+    "KXCPI-26MAY-T0.6": {"p": 0.09, "kalshi_price": 0.07, "reason": "Exceeding 0.6% monthly requires an energy or food spike on top of services stickiness, a relatively unlikely confluence."},
+    "KXCPI-26MAY-T0.7": {"p": 0.04, "kalshi_price": 0.02, "reason": "A 0.7%+ monthly reading would represent a significant acceleration inconsistent with the prevailing disinflationary trend; slight upside vs Kalshi price."},
+    "KXCPI-26MAY-T0.8": {"p": 0.02, "kalshi_price": 0.02, "reason": "A 0.8%+ monthly print is a tail risk only; would require simultaneous energy shock plus broad core re-acceleration, in line with Kalshi pricing."}
+  }
+}
